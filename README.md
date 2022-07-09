@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+
+
+  __  __    ____    _____   
+U|' \/ '|uU|  _"\ u|_ " _|  
+\| |\/| |/\| |_) |/  | |    
+ | |  | |  |  __/   /| |\   
+ |_|  |_|  |_|     u |_|U   
+<<,-,,-.   ||>>_   _// \\_  
+ (./  \.) (__)__) (__) (__) 
+
+
+
 <!--
 **mayphyo03/mayphyo03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
